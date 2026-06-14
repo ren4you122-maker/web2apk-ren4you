@@ -5,7 +5,9 @@
     ],
     "partners": [],
     "resellers": [],
-    "members": []
+    "members": [
+      "MEMBER_MQDJQGCX_VSJ4GK5Y"
+    ]
   },
   "credits": {
     "2076952351": 0,
@@ -34,7 +36,8 @@
     "MEMBER_MQDI3Z6K_VUEABRW6": 1,
     "RESELLER_MQDIJ39M_3R1XPS7N": 5,
     "RESELLER_MQDIQXPU_PHJ1NSH8": 5,
-    "MEMBER_MQDJN987_1XAU9VLW": 1
+    "MEMBER_MQDJN987_1XAU9VLW": 1,
+    "MEMBER_MQDJQGCX_VSJ4GK5Y": 1
   },
   "usernames": {
     "2076952351": "NamzOfficial",
