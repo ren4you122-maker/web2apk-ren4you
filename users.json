@@ -4,7 +4,9 @@
       "SUPERADMIN_QUH4JGPGUS_MQCQXIPI"
     ],
     "partners": [],
-    "resellers": [],
+    "resellers": [
+      "RESELLER_MQDKRN6M_JKCN6VG0"
+    ],
     "members": []
   },
   "credits": {
@@ -35,7 +37,8 @@
     "RESELLER_MQDIJ39M_3R1XPS7N": 5,
     "RESELLER_MQDIQXPU_PHJ1NSH8": 5,
     "MEMBER_MQDJN987_1XAU9VLW": 1,
-    "MEMBER_MQDJQGCX_VSJ4GK5Y": 100
+    "MEMBER_MQDJQGCX_VSJ4GK5Y": 100,
+    "RESELLER_MQDKRN6M_JKCN6VG0": 5
   },
   "usernames": {
     "2076952351": "NamzOfficial",
