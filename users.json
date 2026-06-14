@@ -1,14 +1,13 @@
 {
   "users": {
     "owners": [
+      "SUPERADMIN_AX52TR21_OJK0GW5E",
       "SUPERADMIN_QUH4JGPGUS_MQCQXIPI"
     ],
     "partners": [
       "PARTNER_MQDW77JO_62VVXIUT"
     ],
-    "resellers": [
-      "RESELLER_MQDWA1KQ_R7EOHCVR"
-    ],
+    "resellers": [],
     "members": [
       "MEMBER_MQDWAW96_ZRDNDP6Z"
     ]
