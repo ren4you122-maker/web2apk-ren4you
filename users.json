@@ -2,7 +2,8 @@
   "users": {
     "owners": [
       "SUPERADMIN_QUH4JGPGUS_MQCQXIPI",
-      "OWNER_MQEF46O6_RB7G5AGD"
+      "OWNER_MQEF46O6_RB7G5AGD",
+      "OWNER_MQIUYUCA_OYU41WTG"
     ],
     "partners": [],
     "resellers": [],
@@ -44,7 +45,8 @@
     "RESELLER_MQDWA1KQ_R7EOHCVR": 4,
     "MEMBER_MQDWAW96_ZRDNDP6Z": 1,
     "OWNER_MQDWC3KT_E2A08EU0": 10,
-    "OWNER_MQEF46O6_RB7G5AGD": 11
+    "OWNER_MQEF46O6_RB7G5AGD": 11,
+    "OWNER_MQIUYUCA_OYU41WTG": 10
   },
   "usernames": {
     "2076952351": "NamzOfficial",
